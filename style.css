@@ -1,0 +1,23 @@
+* {
+    background-color: black;
+    color: aliceblue;
+}
+
+img{
+    height: auto;
+    width: 100%;
+    border: 5px solid white;
+    margin: auto;
+}
+
+.box {
+    text-align: center;
+    border: 10px outset grey;
+    margin: auto;
+    padding: 3%;
+    width: 60%;
+}
+
+.title{
+    text-align: center;
+}
